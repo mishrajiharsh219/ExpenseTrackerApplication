@@ -5,7 +5,7 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-blue.svg) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-scalable-blue.svg)
 
-![Expense Tracker Architecture](./ExpenseTracker.webp)
+[Expense Tracker Architecture]
 
 A **scalable, fault-tolerant, and event-driven** expense tracking system built using a **microservices architecture**.  
 Track, manage, and analyze expenses with **real-time reports, authentication, and notifications**.
