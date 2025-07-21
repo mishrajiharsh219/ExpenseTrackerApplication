@@ -51,10 +51,6 @@ Track, manage, and analyze expenses with **real-time reports, authentication, an
 - **Auth Service** – User authentication, signup, login & token management.
 - **User Service** – User profile & preferences management.
 - **Billing & Ledger Services** – Expense tracking & financial records.
-- **Reporting Service** – Generates analytical reports.
-- **Notification Service** – WhatsApp/SMS alerts via RabbitMQ.
-- **Templatisation Service** – Report and notification template management.
-- **Datastore & Redis** – Persistent storage & caching.
 
 ---
 
